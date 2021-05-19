@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+h1{
+  background-color: lightblue;
+  text-align: center;
+}
+h2, h3{
+  text-align: center;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+input{
+  margin: .5rem;
+}
+#save{
+  margin-left: auto;
+  margin-right: auto;
+}
+li{
+  list-style-type: none;
+  text-align: center;
+  font-size: larger;
+}
+#links{
+  text-align: center;
+}
+.float{
+  float: right;
+}
+button{
+  margin-bottom: 1rem;;
+}
